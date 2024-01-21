@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about ** JAVA **
+- 💬 Ask me about **JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
