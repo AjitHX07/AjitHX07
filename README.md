@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **SafeScript**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about ** python **
+- 💬 Ask me about ** JAVA **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
