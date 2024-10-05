@@ -1,7 +1,7 @@
 <img  alt="Coding" width="100%" height="260px" loop=infinite autoplay src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 <h1 align="center">Hi 👋, I'm Ajith Santhosh</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img data-target="animated-image.replacedImage" alt="Coder GIF" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" height="250" align="right" style="display: block; opacity: 1;">
+<img data-target="animated-image.replacedImage" alt="Coder GIF" class="AnimatedImagePlayer-animatedImage" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxMDI2MTQsIm5iZiI6MTcyODEwMjMxNCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA1VDA0MjUxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiY2ViZTNjY2MxNzJiMDFkYmNkMzViNzliNWQ4NjM4YzRkOTAzZWM1OWMzZmY1MzkzOGUxOWQxZGM4ODUzNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vhGbrLW--HlXLWHBvuF1E573629unUdV7tzNjD8a3rw" height="250" align="right" style="display: block; opacity: 1;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithx07&label=Profile%20views&color=0e75b6&style=flat" alt="ajithx07" /> </p>
 
 
