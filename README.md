@@ -14,13 +14,13 @@
 
 - 👯 I’m looking to collaborate on [Movie Lister](a)
 
-- 🤝 I’m looking for help with **Django/Python Projects**
+- 🤝 I’m looking for help with **Django/Angular Projects**
 
 - 👨‍💻 All of my projects are available at [ Portfolio ](https://ajithx07.github.io/ajith-portfolio/)
 
 - 📝 I regularly write articles on [Twitter](https://x.com/Ajith_santhosh_)
 
-- 💬 Ask me about **Full stack developer 👽**
+- 💬 Ask me about **Full stack development 👽**
 
 - 📫 How to reach me **ajith.santhosh.mailbox@gmail.com**
 
